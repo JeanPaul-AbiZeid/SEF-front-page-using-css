@@ -86,3 +86,26 @@
     background-color: white;
     justify-content: space-around;
 }
+
+.footer {
+    display: flex;
+    background-color: black;
+    justify-content: space-around;
+}
+
+.footer-container-1 {
+    color: #25e200;
+    background-color: black;
+    text-align: center;
+}
+
+.footer-container-2 {
+    color: white;
+    background-color: black;
+}
+
+.icons-container {
+    display: flex;
+    background-color: black;
+    color: white;
+}
