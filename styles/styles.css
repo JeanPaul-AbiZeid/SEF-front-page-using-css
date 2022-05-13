@@ -23,6 +23,16 @@
     padding: 5%;
 }
 
+.header {
+    position:absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    color: white;
+    background-color: transparent;
+    padding: 3%;
+}
+
 .data-section {
     display: flex;
     background-color: white;
