@@ -1,0 +1,13 @@
+.main-container {
+    display: flex;
+    flex-direction: column;
+
+}
+.first-image-container {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+.firstimage {
+    width: 100%;
+}
