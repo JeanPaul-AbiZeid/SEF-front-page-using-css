@@ -109,3 +109,36 @@
     background-color: black;
     color: white;
 }
+
+.fa {
+    display: flex;
+    padding: 2%;
+    font-size: 2%;
+    width: 0.7%;
+    margin-right: 20px;
+}
+
+.fa-facebook {
+    background-color: black;
+    color: white;
+}
+
+.fa-instagram {
+    background-color: black;
+    color: white;
+}
+
+.fa-linkedin {
+    background-color: black;
+    color: white;
+}
+
+.fa-twitter {
+    background-color: black;
+    color: white;
+}
+
+.nav-style {
+    display: flex;
+    align-items: center;
+}
