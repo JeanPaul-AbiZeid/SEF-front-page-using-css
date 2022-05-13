@@ -55,3 +55,21 @@
     flex-direction: column;
     align-items: center;
 }
+
+.media-section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: #e6e6e6;
+}
+
+.media-image-container {
+    background-color: #e6e6e6;
+    display: flex;
+    flex-direction: column;
+}
+
+.media-image {
+    background-attachment: #e6e6e6;
+    display: flex;
+}
