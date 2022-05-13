@@ -34,6 +34,17 @@
 .program-section {
     display: flex;
     flex-direction: column;
-    background-color: green;
-    justify-content: center;
+    background-color: #25e200;
+    align-items: center;
+}
+
+.iamge-program-container {
+    display: flex;
+    background-color: #25e200;
+    
+}
+
+.image-program {
+    width: 100%;
+    background-color: #25e200;
 }
