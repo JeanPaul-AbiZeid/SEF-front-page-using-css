@@ -5,11 +5,22 @@
 }
 .first-image-container {
     position: relative;
-    text-align: center;
-    color: white;
-}
-.firstimage {
     width: 100%;
+    margin: 0 auto;
+}
+
+.first-image-container img {
+    vertical-align: middle;
+}
+
+.first-image-container .content {
+    position: absolute;
+    bottom: 0;
+    background: rgb(0, 0, 0); /* Fallback color */
+    background: rgba(0, 0, 0, 0); /* Black background with 0.5 opacity */
+    color: #f1f1f1;
+    width: 100%;
+    padding: 5%;
 }
 
 .data-section {
