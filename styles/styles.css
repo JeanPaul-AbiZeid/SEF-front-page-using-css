@@ -73,3 +73,16 @@
     background-attachment: #e6e6e6;
     display: flex;
 }
+
+.partners-section {
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    align-items: center;
+}
+
+.partner-image {
+    display: flex;
+    background-color: white;
+    justify-content: space-around;
+}
