@@ -211,8 +211,20 @@
 }
 
 .rp-image{
-    width: 82%;
+    width: 87%;
 }
+
+.quote-container {
+    display: flex;
+    margin-top: 5%;
+    margin-bottom: 1%;
+    justify-content: center;
+    align-items: center;
+}
+.quote-image {
+    width: 55%;
+}
+
 .media-section {
     display: flex;
     flex-direction: column;
