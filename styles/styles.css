@@ -79,11 +79,29 @@
     justify-content: space-around;
     margin-left: 10%;
     margin-right: 10%;
+    padding-bottom: 5%;
 }
 
 .data {
     display: flex;
     flex-direction: column;
+}
+
+.h1-data {
+    text-align: center;
+    color: #25e200;
+    font-size: calc((3.5 - 1) * 1.2vw + 1rem);
+    white-space: pre-wrap;
+    font-weight: bold;
+    line-height: 1.17;
+    margin-bottom: 0%;
+}
+
+.h2-data {
+    text-align: center;
+    white-space: pre-wrap;
+    font-size: calc((1.6 - 1) * 1.2vw + 1rem);
+    margin-top: 15%;
 }
 
 .ads-section {
