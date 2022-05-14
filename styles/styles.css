@@ -25,7 +25,7 @@
 
 .header {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     align-items: center;
     position:absolute;
     top: 0;
@@ -36,9 +36,24 @@
     padding: 3%;
 }
 
+.a-style {
+    color: white;
+}
+
+.logo-container {
+    display: flex;
+    flex-basis: 40%;
+}
+
 .logo {
-    margin-right: auto;
-    width: 8%;
+    margin-right: 0;
+    width: 13%;
+}
+
+.nav-container {
+    display: flex;
+    justify-content: center;
+    flex-basis: 60%;
 }
 .nav-links {
     list-style: none;
@@ -52,9 +67,11 @@
 .green-button {
     background-color: #25e200;
     color: white;
-    border-radius: 10px;
+    border-radius: 5px;
     border: none;
     cursor: pointer;
+    width: 8%;
+    padding: 1%;
 }
 .data-section {
     display: flex;
