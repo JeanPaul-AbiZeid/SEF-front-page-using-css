@@ -147,17 +147,37 @@
     flex-direction: column;
     background-color: #25e200;
     align-items: center;
+    padding-bottom: 3%;
+}
+
+.h2-program {
+    text-align: center;
+    margin-bottom: 0.5%;
+    padding-top: 0.5%;
+    white-space: pre-wrap;
+    color: #fff;
+    font-size: calc((3 - 1) * 1.2vw + 1rem);
+    line-height: 1.196;
+    font-weight: 400;
 }
 
 .image-program-container {
-    display: flex;
+    justify-content: space-around;
     background-color: #25e200;
+    width: 100%;
     
 }
 
-.image-program {
-    width: 100%;
+.image-program1 {
+    width: 28%;
+    margin-left: 22%;
     background-color: #25e200;
+}
+
+.image-program2 {
+    width: 28%;
+    background-color: #25e200;
+    margin-left: 1%;
 }
 
 .rp-section {
