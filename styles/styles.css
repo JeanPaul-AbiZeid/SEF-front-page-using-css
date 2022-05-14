@@ -38,7 +38,7 @@
 
 .logo {
     margin-right: auto;
-    width: 5%;
+    width: 8%;
 }
 .nav-links {
     list-style: none;
@@ -49,6 +49,13 @@
     padding: 0px 20px;
 }
 
+.green-button {
+    background-color: #25e200;
+    color: white;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+}
 .data-section {
     display: flex;
     background-color: white;
