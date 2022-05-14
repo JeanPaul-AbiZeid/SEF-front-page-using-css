@@ -110,6 +110,7 @@
     box-sizing: border-box;
     margin: 5%;
     margin-top: 0%;
+    
 }
 
 .ads-image-container {
@@ -180,6 +181,12 @@
     margin-left: 1%;
 }
 
+.graduates-section {
+    display: flex;
+    background-color: white;
+    box-sizing: border-box;
+    margin: 5%;
+}
 .rp-section {
     display: flex;
     background-color: white;
