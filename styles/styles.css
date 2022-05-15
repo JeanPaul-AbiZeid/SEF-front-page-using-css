@@ -128,7 +128,6 @@
     box-sizing: border-box;
     margin: 5%;
     margin-top: 0%;
-    
 }
 
 .ads-image-container {
@@ -184,7 +183,6 @@
     justify-content: space-around;
     background-color: #25e200;
     width: 100%;
-    
 }
 
 .image-program1 {
@@ -348,6 +346,7 @@
 .subscribe-button:hover {
     background-color: gray;
 }
+
 .footer {
     display: flex;
     background-color: black;
