@@ -72,6 +72,19 @@
     width: 8%;
     padding: 1%;
 }
+
+.h1-content {
+    font-size: calc((3.5 - 1) * 1.2vw + 1rem);
+    line-height: 1.17;
+    font-weight: 400;
+}
+
+.p-content {
+    font-size: calc((1.6 - 1) * 1.2vw + 1rem);
+    font-weight: 400;
+    line-height: 1.4;
+}
+
 .data-section {
     display: flex;
     background-color: white;
