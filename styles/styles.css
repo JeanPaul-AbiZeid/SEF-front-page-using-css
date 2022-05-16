@@ -26,7 +26,7 @@
 .styling-image1 {
     width: 100%;
     height: 920px;
-    overflow: hidden;
+    overflow: clip;
     filter: brightness(50%);
 }
 .header {
